@@ -1,4 +1,4 @@
-This is a report receive 50/50 for final from STA207 2024 Winter.
+**This is a report receive 50/50 for final from STA207 2024 Winter.**
 
 # Abstract
 

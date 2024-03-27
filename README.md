@@ -1,3 +1,5 @@
+This is a report receive 50/50 for final report from STA207 2024 Winter.
+
 # Abstract
 
 This study investigates the impact of class size on first-grade students' mathematical achievement within the Tennessee Student/Teacher Achievement Ratio (STAR) project. Utilizing a linear mixed-effects model, we examined the effects of class size (small, regular, and regular with aide), school, and race on first-grade math scores. Our analysis revealed that students in small classes outperformed their peers in regular-sized classes, both with and without aides. Furthermore, the study found significant variations in math scores across different schools and identified a notable disparity in performance between black and non-black students. A sensitivity analysis, including a Difference-in-Differences (DiD) approach, was conducted to address potential biases due to student reassignments, confirming the robustness of our findings. This research underscores the significant influence of class size on educational outcomes, providing valuable insights for policymakers and educators aiming to optimize learning environments for elementary school students.

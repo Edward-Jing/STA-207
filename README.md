@@ -1,4 +1,4 @@
-**This is a report receive 50/50 for final from STA207 2024 Winter.** If you need any help from this report(especially taking STA207), please email edsun@ucdavis.edu. I am very happy to talk with any problems. 
+**This report received 50/50 in final from STA207 2024 Winter.** If you need any help from this report(especially taking STA207), please email edsun@ucdavis.edu. I am very happy to talk with any problems. 
 
 # Abstract
 
